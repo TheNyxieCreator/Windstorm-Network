@@ -1,2 +1,3 @@
-# Chatter-Network
-Chatter, a Friendly place for everyone
+## Chatter, the friendly social network.
+
+-**©2024-2025 A TheNyxieCreator's Production**
